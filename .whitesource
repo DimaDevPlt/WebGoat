@@ -1,8 +1,0 @@
-{
-  "settingsInheritedFrom": "DimaMend/whitesource-config@main",
-  "remediateSettings": {
-    "workflowRules": {
-      "enabled": false
-    }
-  }
-}
